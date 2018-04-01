@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "pic": "http://www.eischools.org/slideshow/images/DSC_5212a.jpg",
+    "name": "Redmen Stadium",
+    "location": "East Islip Middle School",
+    "description": "This is where it all started...the beginning of my track and field journey. This is the track at my old high school, it has a very nostalgic effect on me, however, it's the worst track I've ever ran on. The material is basically concrete, provides no bounce, but the turns are good, if your spikes can actually grip the track. Beware...if you fall down on this track, it will definitely take a chunk of your skin with it."
+  },
+  {
+    "id": 2,
+    "pic": "https://pbs.twimg.com/media/DBRDGKYU0AEE9W-.jpg",
+    "name": "Bay Shore Track",
+    "location": "Bay Shore High School",
+    "description": "Also a fairly nostalgic track for me, this is another place where I've trained many times and ran the most difficult workouts at. I love this track, its very soft and bouncy so it feels good to run on and the wide turns make them easy to sprint on. This track has recently been resurfaced and I'd to run on it again sometime."
+  },
+  {
+    "id": 3,
+    "pic": "https://static.hudl.com/users/temp/1667440_fad334d1765c46ab977523713d92a74a.jpg",
+    "name": "Daler's Track Complex",
+    "location": "Farmingdale High School",
+    "description": "I've trained on this track quite a bit too in high school. It's an overall good track, nice grip and bounce, slightly sharp turns, but nice and long straights."
+  },
+  {
+    "id": 4,
+    "pic": "http://www.sunyacsports.com/sports/track/2016-17/Trackpreview.png?max_width=600&max_height=600",
+    "name": "SUNY Cortland Stadium Complex",
+    "location": "SUNY Cortland",
+    "description": "The outdoor track at my alma mater, SUNY Cortland. A great track to run on, has a good amount of grip and bounce, nice and wide turns, I enjoyed training on this track in the outdoor season."
+  },
+  {
+    "id": 5,
+    "pic": "https://pbs.twimg.com/profile_images/533791522727424000/rWqtogak_400x400.jpeg",
+    "name": "St. Anthony's Outdoor Track Complex",
+    "location": "St. Anthony's High School",
+    "description": "An attractive track with a beautiful yellow and black lane pattern. Has a competitive mondo track surface that slightly hard but produces fast times. Not the best track to train on, but definitely a good track to compete on."
+  },
+  {
+    "id": 6,
+    "pic": "http://morgan-state-university-baltimore-maryland.runnerspace.com/members/images/42/280682_full.jpg",
+    "name": "Weaver Track and Field Stadium",
+    "location": "Princeton University",
+    "description": "Another great track to run on at this legendary Ivy League University. Has wide turns and lanes so it's comfortable to sprint on, also has a medium amount of bounce so it's a good combination of comfort and speed."
+  },
+  {
+    "id": 7,
+    "pic": "http://wac.b63f.edgecastcdn.net/80B63F/cornellbigred-com/images/2015/4/30/CD2P9232.JPG?width=1040&height=589&bgcolor=black&mode=crop&anchor=topcenter",
+    "name": "Robert J. Kane Sports Complex",
+    "location": "Cornell University",
+    "description": "This outdoor track is pretty average, has decent grip, pretty wide turns, not much of a bounce though, so it makes for a decent competition track."
+  },
+  {
+    "id": 8,
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hughes_Stadium%2C_Morgan_State_University.jpg/1200px-Hughes_Stadium%2C_Morgan_State_University.jpg",
+    "name": "Hughes Stadium",
+    "location": "Morgan State University",
+    "description": "I only ran here once but I have to mention it because it's one of the most beautiful places I've ran at. It has a very large stadium, with an exceptional track that has a fast mondo surface with a beautiful red and blue lane pattern. Definitely a track worthy of great competition."
+  },
+  {
+    "id": 9,
+    "pic": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/assets/v3/editorial/0/c0/0c09ae32-11af-11e8-ba64-2fb5644d641c/5a8476b9cab44.image.jpg",
+    "name": "Huntington HS Outdoor Track",
+    "location": "Huntington High School",
+    "description": "A nice track that I've ran on, has a good soft, bouncy surface with nice grip. I've seen some very fast times ran here."
+  },
+  {
+    "id": 10,
+    "pic": "http://www.nj.gov/state/njfilm/location-library/monmouth/mon_West-Long-Branch_Monmouth-University-Kessler-Field.jpg",
+    "name": "Kessler Field",
+    "location": "Monmouth University",
+    "description": "This was a good track to run on, unfortunately there was a down-pour everytime I ran on it. Nonetheless it has a good surface for competition since it was slightly hard."
+  },
+  {
+    "id": 11,
+    "pic": "http://www.moraviansports.com/information/facilities/photos/banner.jpg?max_width=650",
+    "name": "Timothy Breidegam Track",
+    "location": "Moravian College",
+    "description": "A great track to run on, has a good mondo surface which is good for competition, wide turns for ease of sprinting. I've enjoyed running here."
+  }
+]
