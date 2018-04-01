@@ -1,7 +1,7 @@
 import React from 'react';
 import Indoor from '../routes/indoor/Indoor';
 import Outdoor from '../routes/outdoor/Outdoor';
-import { HashRouter as Router, Route, NavLink } from 'react-router-dom';
+import { HashRouter, Route, NavLink } from 'react-router-dom';
 
 const Body = () => (
   <HashRouter>
