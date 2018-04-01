@@ -1,10 +1,10 @@
 import React from 'react';
 import Indoor from '../routes/indoor/Indoor';
 import Outdoor from '../routes/outdoor/Outdoor';
-import { BrowserRouter as Router, Route, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Route, NavLink } from 'react-router-dom';
 
 const Body = () => (
-  <Router>
+  <HashRouter>
     <div>
       <ul className="navbar">
         <li>
@@ -18,7 +18,7 @@ const Body = () => (
       <Route path="/indoor" component={Indoor} />
       <Route path="/outdoor" component={Outdoor} />
     </div>
-  </Router>
+  </HashRouter>
 );
 
 export default Body;
